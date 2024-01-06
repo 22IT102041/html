@@ -1,0 +1,18 @@
+*{
+    background: rgb(red, green, blue);
+    background: linear-gradient(90deg,rgb(249, 7, 7)0%,rgb(12, 192, 93)35%,rgb(212, 8, 8)100%);
+}
+
+h1{
+    
+    font-style: italic;
+    color: rgb(11, 11, 11);
+}
+img{
+    height: 555px;
+    size: 10px;
+    position:initial;
+    padding: 10px;
+    border-top: 10px;
+ 
+}
